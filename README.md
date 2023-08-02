@@ -14,6 +14,9 @@ Tools • Dart 3.0.5 • DevTools 2.23.1
 
 ## flutter opencv for Android
 
+<img src="./step.png"  alt="图片名称" align=center />
+
+
 download [opencv](https://opencv.org/releases/) 
 1. copy `OpenCV-android-sdk/sdk/native/jni/include` to `flutter_proj/android/app/src/main/cpp/include`
 2. copy `OpenCV-android-sdk/sdk/native/libs` to `flutter_proj/android/app/src/main/jniLibs/libs`
